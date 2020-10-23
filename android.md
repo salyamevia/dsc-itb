@@ -1,8 +1,8 @@
-#Google Products Exploration
+# Google Products Exploration
 
 13519083 Shaffira Alya Mevia
 
-🌿 ANDROID
+🌿 **ANDROID**
 https://developer.android.com/
 
 Sudah tidak asing apabila kita mendengar kata Android, karena hampir sekitar 75% (menurut statscounter.com) pengguna handphone menggunakan operating system Android. Android adalah open source software stack berbasis Linux yang dibuat untuk beragam perangkat dan faktor bentuk. Android juga merupakan salah satu dari berbagai macam produk yang Google keluarkan.
